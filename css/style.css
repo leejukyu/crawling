@@ -1,5 +1,12 @@
-		td{
-			font-size : 2em;
-			font-family: Gulim;
-			text-align: center;
-		}
+td{
+           font-size:2em;
+           font-family:Gulim;
+           text-align:center;
+                            }
+
+    .highlight {
+	       font-size:3em;
+           font-family:Gulim;
+           text-align:left;
+           color:purple;
+}
